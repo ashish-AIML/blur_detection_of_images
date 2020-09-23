@@ -19,6 +19,6 @@ Run [detect_blur](detect_blur.py) to detect blur images in a given folder of ima
 ---
 ## License & Copyright
 
-@ Teric-AI Team
+@ Ashish & Team
 
 ***
